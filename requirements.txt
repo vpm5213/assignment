@@ -1,0 +1,5 @@
+# Astro Runtime includes the following pre-installed providers packages: https://www.astronomer.io/docs/astro/runtime-image-architecture#provider-packages
+matplotlib==3.9.2
+seaborn==0.12.2
+pandas==1.5.3
+numpy==1.23.5
